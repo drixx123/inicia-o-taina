@@ -1,18 +1,7 @@
-h1 {
+body{
+    background-color: black;
     color: white;
-    /* Adicionar mais estilos conforme necessário */
 }
-p {
-    color: white;
-    /* Adicionar mais estilos conforme necessário */
+strong{
+    color: #22D4FD;
 }
-button {
-    background-color: ciano;
-    color: white;
-    border: none;
-    /* Adicionar mais estilos conforme necessário */
-}
-img {
-    /* Adicionar estilos para formatar a imagem */
-}
-/* Adicionar mais estilos conforme necessário */
